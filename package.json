@@ -1,0 +1,26 @@
+{
+  "name": "hexo-asset",
+  "version": "1.0.0",
+  "description": "Support original markdown image expressions when enable `post_asset_folder`, and no need to use private hexo tags anymore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnzsb/hexo-asset.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "asset",
+    "image",
+    "path"
+  ],
+  "author": "cnzsb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnzsb/hexo-asset/issues"
+  },
+  "homepage": "https://github.com/cnzsb/hexo-asset#readme"
+}
