@@ -1,6 +1,6 @@
 {
   "name": "hexo-asset",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Support original markdown image expressions when enable `post_asset_folder`, and no need to use private hexo tags anymore",
   "main": "index.js",
   "scripts": {
