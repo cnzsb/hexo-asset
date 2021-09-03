@@ -6,7 +6,7 @@ Support original markdown image expressions when **enabling `post_asset_folder`*
 
 ## Detail
 
-`./path/asset.jpg` will be replaced to `your_post_path/asset.jpg`
+`./path/asset.jpg` and `path/asset.jpg` will be replaced to `your_post_path/asset.jpg`
 
 URLs started with `http`, `https`, `//`, `/` or plain string(`path/asset.jpg`) will keep
 
